@@ -43,6 +43,10 @@ Classifica a idade informada em categorias.
 
 ---
 
+### ⏳ Temporizador 
+
+Temporizador desenvolvido para o usuário informa minutos e segundos, e o programa realiza a contagem até 00:00, emitindo um alerta sonoro ao finalizar.
+
 ## 🚀 Como compilar e executar
 
 No terminal:
