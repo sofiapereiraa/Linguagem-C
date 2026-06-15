@@ -47,7 +47,20 @@ Classifica a idade informada em categorias.
 
 Temporizador desenvolvido para o usuário informa minutos e segundos, e o programa realiza a contagem até 00:00, emitindo um alerta sonoro ao finalizar.
 
-## 🚀 Como compilar e executar
+---
+
+# 📦 Sistema de Cadastro de Produtos
+
+Sistema de cadastro de produtos simples.
+
+## 🚀 Funcionalidades
+
+- ➕ Adicionar produto (nome, preço e quantidade)
+- 📋 Listar produtos cadastrados
+- 🚪 Sair do programa
+- 📋 Menu interativo para navegação
+
+## 🚀 Como compilar e executar os trabalhos em C
 
 No terminal:
 
