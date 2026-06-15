@@ -59,13 +59,13 @@ Sistema de cadastro de produtos simples.
 - 📋 Listar produtos cadastrados
 - 🚪 Sair do programa
 - 📋 Menu interativo para navegação
- # 📚 Projetos em Linguagem C
 
-### 🚀 Como compilar e executar os trabalhos em C
+---
+
+## 🚀 Como compilar e executar os trabalhos em C
 
 No terminal:
 
+```bash
 gcc nome_do_arquivo.c -o programa
 ./programa
-
-Ex: gcc calculadora.cpp -o calculadora
