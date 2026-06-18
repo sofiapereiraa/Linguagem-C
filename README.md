@@ -29,12 +29,27 @@ Simula operações básicas de uma conta bancária.
 ---
 
 ### 📊 Média escolar
-Calcula a média de trabalhos e provas e define a situação do aluno.
+Sistema que calcula a média de trabalhos e provas e define a situação do aluno.
 
-**Regras:**
-- Média dos trabalhos
-- Média ponderada das provas
-- Média final
+**Funcionalidades:**
+- Cadastro de aluno
+- Cálculo de média dos trabalhos
+- Cálculo de média ponderada das provas
+- Cálculo da média final
+- Situação: aprovado, recuperação ou reprovado
+
+---
+
+### 📚 Sistema de biblioteca
+Sistema de gerenciamento de biblioteca com controle de empréstimos.
+
+**Funcionalidades:**
+- Cadastro de livros
+- Listagem de livros
+- Busca por título
+- Empréstimo de livros
+- Devolução de livros
+- Menu interativo
 
 ---
 
@@ -43,26 +58,22 @@ Classifica a idade informada em categorias.
 
 ---
 
-### ⏳ Temporizador 
-
-Temporizador desenvolvido para o usuário informa minutos e segundos, e o programa realiza a contagem até 00:00, emitindo um alerta sonoro ao finalizar.
-
----
-
-# 📦 Sistema de Cadastro de Produtos
-
-Sistema de cadastro de produtos simples.
-
-## 🚀 Funcionalidades
-
-- ➕ Adicionar produto (nome, preço e quantidade)
-- 📋 Listar produtos cadastrados
-- 🚪 Sair do programa
-- 📋 Menu interativo para navegação
+### ⏳ Temporizador
+Temporizador que recebe minutos e segundos e realiza a contagem até zero, emitindo alerta ao final.
 
 ---
 
-## 🚀 Como compilar e executar os trabalhos em C
+### 📦 Sistema de cadastro de produtos
+Sistema simples de cadastro de produtos.
+
+**Funcionalidades:**
+- Adicionar produto (nome, preço e quantidade)
+- Listar produtos cadastrados
+- Menu interativo
+
+---
+
+## 🚀 Como compilar e executar os projetos
 
 No terminal:
 
