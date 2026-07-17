@@ -86,6 +86,18 @@ O sistema funciona como um pequeno diário de lembretes, permitindo que o usuár
 
 ---
 
+### 🏐 Sistema de Gerenciamento de Atletas
+
+Sistema desenvolvido em linguagem C para gerenciar atletas de voleibol, utilizando um menu interativo e operações de CRUD.
+
+**Funcionalidades:**
+
+- Cadastro de atletas
+- Consulta de atletas
+- Edição de informações
+- Remoção de atletas
+- Relatório de desempenho individual
+
 ## 🚀 Como compilar e executar os projetos
 
 No terminal:
