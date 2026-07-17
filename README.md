@@ -73,6 +73,19 @@ Sistema simples de cadastro de produtos.
 
 ---
 
+### 📝 Diário de Lembretes
+
+O sistema funciona como um pequeno diário de lembretes, permitindo que o usuário registre anotações e as consulte posteriormente por meio de um arquivo `.txt`.
+
+**Funcionalidades:**
+
+- Inserção de um ou mais lembretes
+- Armazenamento em arquivo .txt
+- Leitura de todos os lembretes salvos
+- Menu interativo
+
+---
+
 ## 🚀 Como compilar e executar os projetos
 
 No terminal:
