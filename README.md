@@ -98,6 +98,19 @@ Sistema desenvolvido em linguagem C para gerenciar atletas de voleibol, utilizan
 - Remoção de atletas
 - Relatório de desempenho individual
 
+---
+### 📒 Agenda de Contatos
+
+CRUD completo desenvolvido em linguagem C para gerenciamento de contatos, utilizando structs, memória dinâmica, validação de dados e manipulação de arquivos.
+
+**Funcionalidades:**
+- Cadastro, consulta, edição e remoção de contatos
+- Busca por nome
+- Validação de informações
+- Salvamento em arquivo `.txt`
+
+---
+
 ## 🚀 Como compilar e executar os projetos
 
 No terminal:
